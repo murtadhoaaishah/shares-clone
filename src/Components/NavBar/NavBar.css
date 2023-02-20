@@ -1,0 +1,35 @@
+.shares-nav {
+    /* display: flex; */
+    /* flex-direction: row; */
+    /* justify-content: space-between; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    padding: 2.5rem 5rem;
+    /* position: fixed; */
+}
+
+.shares-logo-div {
+    /* flex-grow: 1; */
+
+}
+
+/* .shares-nav: */
+
+.shares-nav a {
+    /* text-decoration: none;
+    color: black; */
+
+}
+
+.shares-logo {
+    width: 10rem;
+
+}
+
+.shares-links {
+    /* display: flex;
+    flex-direction: row;
+    justify-self: end; */
+    /* gap: 3rem; */
+
+}
